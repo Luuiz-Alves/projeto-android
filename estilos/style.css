@@ -27,7 +27,7 @@
 }
 
 body {
-    background-color: var(--cor0);
+    background-color: rgba(255, 228, 196, 0.596);
     font-family: var(--fonte-padrao);
 }
 
